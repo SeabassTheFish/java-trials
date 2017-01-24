@@ -36,4 +36,4 @@ public class Calculator {
 		// give output 
 		System.out.println(ans); 
 	} 
-} 
+}
